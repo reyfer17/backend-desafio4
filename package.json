@@ -1,0 +1,14 @@
+{ 
+  "type": "module",
+  "name": "desafio4",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/app.js",
+  "scripts": {
+    "start": "node .",
+    "test": "nodemon -e 'js,html' ."
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
